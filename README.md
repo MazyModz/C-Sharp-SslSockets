@@ -59,7 +59,6 @@ No child object has to be created, so we can create a new instance in our applic
 using SslSockets;
 
 private static bool _bIsConnected = false; 
-
 static void Main(string[] args)
 {
     SslClient client = new SslClient();
