@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SslSockets_Server_Example", "SslSockets_Example\SslSockets_Server_Example.csproj", "{DB20E810-DCBC-4092-B7B1-E615AEA7070B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SslSockets_Client_Example", "SslSockets_Client_Example\SslSockets_Client_Example.csproj", "{E3FB087B-8401-4414-88ED-01630AD84BA6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB20E810-DCBC-4092-B7B1-E615AEA7070B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB20E810-DCBC-4092-B7B1-E615AEA7070B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB20E810-DCBC-4092-B7B1-E615AEA7070B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB20E810-DCBC-4092-B7B1-E615AEA7070B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3FB087B-8401-4414-88ED-01630AD84BA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3FB087B-8401-4414-88ED-01630AD84BA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3FB087B-8401-4414-88ED-01630AD84BA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3FB087B-8401-4414-88ED-01630AD84BA6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A817F2F4-AFE4-40FE-B15E-F10645767906}
+	EndGlobalSection
+EndGlobal
